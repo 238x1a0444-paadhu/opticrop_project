@@ -5,7 +5,7 @@
 
 The project is deployed on Render and can be accessed using the link below.
 
-🔗 **Live Demo:** https://your-app-name.onrender.com
+🔗 **Live Demo:**https://opticrop-project.onrender.com
 
 > **An AI-powered crop recommendation system that assists in selecting the most suitable crop using soil nutrients and environmental conditions.**
 
