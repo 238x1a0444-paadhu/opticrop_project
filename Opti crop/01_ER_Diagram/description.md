@@ -1,18 +1,18 @@
-# Entity Relationship Diagram Documentation
+# 🧩 Entity Relationship Diagram Documentation
 
-## Project Title
+## 📌 Project Overview
 
-OptiCrop – Smart Agricultural Production Optimization System
+**OptiCrop – Smart Agricultural Production Optimization System**
 
-## Introduction
+## 📖 System Introduction
 
 The Entity Relationship (ER) Diagram represents the database structure of the OptiCrop system. It illustrates the entities, attributes, relationships, primary keys, and foreign keys required to manage agricultural data and crop prediction processes.
 
-## Entities
+## 🗂 Core Entities
 
-### 1. User
+### 👤 1. User
 
-Attributes:
+**Attributes:**
 
 * user_id (Primary Key)
 * name
@@ -20,9 +20,9 @@ Attributes:
 * password
 * phone_number
 
-### 2. SoilData
+### 🌱 2. SoilData
 
-Attributes:
+**Attributes:**
 
 * soil_id (Primary Key)
 * user_id (Foreign Key)
@@ -34,27 +34,27 @@ Attributes:
 * ph
 * rainfall
 
-### 3. Crop
+### 🌾 3. Crop
 
-Attributes:
+**Attributes:**
 
 * crop_id (Primary Key)
 * crop_name
 * crop_type
 * description
 
-### 4. Dataset
+### 📂 4. Dataset
 
-Attributes:
+**Attributes:**
 
 * dataset_id (Primary Key)
 * dataset_name
 * source
 * upload_date
 
-### 5. MLModel
+### 🤖 5. MLModel
 
-Attributes:
+**Attributes:**
 
 * model_id (Primary Key)
 * dataset_id (Foreign Key)
@@ -62,9 +62,9 @@ Attributes:
 * algorithm
 * accuracy
 
-### 6. Prediction
+### 📊 6. Prediction
 
-Attributes:
+**Attributes:**
 
 * prediction_id (Primary Key)
 * soil_id (Foreign Key)
@@ -73,9 +73,9 @@ Attributes:
 * prediction_date
 * confidence_score
 
-### 7. Report
+### 📑 7. Report
 
-Attributes:
+**Attributes:**
 
 * report_id (Primary Key)
 * prediction_id (Foreign Key)
@@ -83,55 +83,55 @@ Attributes:
 * recommendation
 * summary
 
-## Relationships
+## 🔗 Entity Relationships
 
-### User → SoilData
+### ➜ User → SoilData
 
-Relationship Type: One-to-Many (1:M)
+**Relationship Type:** One-to-Many (1:M)
 
 A single user can submit multiple soil data records.
 
-### SoilData → Prediction
+### ➜ SoilData → Prediction
 
-Relationship Type: One-to-One (1:1)
+**Relationship Type:** One-to-One (1:1)
 
 Each soil data record generates one crop prediction.
 
-### Crop → Prediction
+### ➜ Crop → Prediction
 
-Relationship Type: One-to-Many (1:M)
+**Relationship Type:** One-to-Many (1:M)
 
 One crop can appear in multiple prediction results.
 
-### Dataset → MLModel
+### ➜ Dataset → MLModel
 
-Relationship Type: One-to-Many (1:M)
+**Relationship Type:** One-to-Many (1:M)
 
 One dataset can train multiple machine learning models.
 
-### MLModel → Prediction
+### ➜ MLModel → Prediction
 
-Relationship Type: One-to-Many (1:M)
+**Relationship Type:** One-to-Many (1:M)
 
 One machine learning model can generate multiple prediction records.
 
-### Prediction → Report
+### ➜ Prediction → Report
 
-Relationship Type: One-to-Many (1:M)
+**Relationship Type:** One-to-Many (1:M)
 
 One prediction can generate multiple agricultural reports.
 
-## Primary Keys
+## 🔑 Primary Keys
 
-* User: user_id
-* SoilData: soil_id
-* Crop: crop_id
-* Dataset: dataset_id
-* MLModel: model_id
-* Prediction: prediction_id
-* Report: report_id
+* **User:** user_id
+* **SoilData:** soil_id
+* **Crop:** crop_id
+* **Dataset:** dataset_id
+* **MLModel:** model_id
+* **Prediction:** prediction_id
+* **Report:** report_id
 
-## Foreign Keys
+## 🔐 Foreign Key References
 
 * SoilData.user_id references User.user_id
 * Prediction.soil_id references SoilData.soil_id
@@ -139,6 +139,7 @@ One prediction can generate multiple agricultural reports.
 * Prediction.model_id references MLModel.model_id
 * Report.prediction_id references Prediction.prediction_id
 
-## Conclusion
+## ✅ Conclusion
 
 The ER Diagram provides a structured database design for the OptiCrop system. It supports efficient storage and management of user information, soil parameters, crop recommendations, machine learning models, prediction records, and agricultural reports, enabling data-driven decision-making in smart agriculture.
+
