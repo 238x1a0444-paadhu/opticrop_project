@@ -203,15 +203,20 @@ OptiCrop demonstrates how Artificial Intelligence and Machine Learning can impro
 
 # 👩‍💻 Developer
 
-**Project Name:** OptiCrop – Smart Agricultural Production Optimization Engine
+**Name:** Paddhu
 
-**Developed By:** Paddhu
+**GitHub Profile:**  
+https://github.com/238x1a0444-paadhu
 
-**Platform:** Python • Flask • Machine Learning
+**Project Repository:**  
+https://github.com/238x1a0444-paadhu/opticrop_project
+
+📧 **Contact:** *(Add your email here if you want to share it.)*
 
 ---
 
-## ⭐ Thank you for visiting this repository!
+### ⭐ Thank You for Visiting!
 
+If you found this project useful, please consider giving it a ⭐ on GitHub. Your support is greatly appreciated!
 If you found this project helpful, consider giving it a ⭐ on GitHub.
 
