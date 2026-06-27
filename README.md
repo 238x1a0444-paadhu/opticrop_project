@@ -27,3 +27,40 @@ The main objective of this project is to help improve farming efficiency by prov
 🖥 Clean and responsive web interface
 ⚡ Fast prediction with trained ML model
 📱 Easy to use for farmers and students
+
+🛠 Technology Stack
+
+🎨 Frontend
+
+HTML5
+
+CSS3
+
+JavaScript
+
+⚙ Backend
+
+Python
+
+Flask
+
+🧠 Machine Learning
+
+Scikit-learn
+
+Pandas
+
+NumPy
+
+🧰 Development Tools
+
+Visual Studio Code
+
+Jupyter Notebook
+
+Git
+GitHub
+
+
+
+ a cleaner Markdown list for GitHub:
