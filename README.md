@@ -1,1 +1,2 @@
-🌱 OptiCrop - Smart Agricultural Production Optimization Engine
+#🌱 OptiCrop
+Smart Agricultural Production Optimization Engine
