@@ -18,3 +18,12 @@ The main objective of this project is to help improve farming efficiency by prov
 ⚡ Deliver instant prediction results.
 💻 Provide a simple and user-friendly web application.
 🌍 Support sustainable and modern farming practices.
+
+✨ Core Features
+🤖 AI-powered crop recommendation
+📈 Real-time prediction based on user inputs
+🌦 Environmental parameter analysis
+🌱 Soil nutrient evaluation
+🖥 Clean and responsive web interface
+⚡ Fast prediction with trained ML model
+📱 Easy to use for farmers and students
