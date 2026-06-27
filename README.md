@@ -211,12 +211,8 @@ https://github.com/238x1a0444-paadhu
 **Project Repository:**  
 https://github.com/238x1a0444-paadhu/opticrop_project
 
-📧 **Contact:** *(Add your email here if you want to share it.)*
 
----
 
-### ⭐ Thank You for Visiting!
+### ⭐ Acknowledgement
 
-If you found this project useful, please consider giving it a ⭐ on GitHub. Your support is greatly appreciated!
-If you found this project helpful, consider giving it a ⭐ on GitHub.
-
+Thank you for taking the time to explore this project. If you found it informative or useful, please consider giving the repository a ⭐. Your support is sincerely appreciated.
