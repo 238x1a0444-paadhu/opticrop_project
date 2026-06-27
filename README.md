@@ -12,3 +12,4 @@ The main objective of this project is to help improve farming efficiency by prov
 🎯 Project Goals
 
 🌾 Recommend the ideal crop for cultivation.
+🌡 Analyze environmental and soil conditions.
