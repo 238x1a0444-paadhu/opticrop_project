@@ -209,7 +209,7 @@ OptiCrop demonstrates how Artificial Intelligence and Machine Learning can impro
 
 # 👩‍💻 Developer
 
-**Name:** Paddhu
+**Name:** MANCHALA.VENKATA LAKSHMI PADMAVATHI
 
 **GitHub Profile:**  
 https://github.com/238x1a0444-paadhu
@@ -217,7 +217,11 @@ https://github.com/238x1a0444-paadhu
 **Project Repository:**  
 https://github.com/238x1a0444-paadhu/opticrop_project
 
+## 👨‍💻 Team Members
 
+- *Chinthagunta Harshavardhan*
+- *D N V A Krishnama Charyulu*
+- *Vetapalem Venkata Giri Sai*
 
 ### ⭐ Acknowledgement
 
