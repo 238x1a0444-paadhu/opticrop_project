@@ -219,9 +219,11 @@ https://github.com/238x1a0444-paadhu/opticrop_project
 
 ## 👨‍💻 Team Members
 
-- *Chinthagunta Harshavardhan*
-- *D N V A Krishnama Charyulu*
-- *Vetapalem Venkata Giri Sai*
+- *CHINTHAGUNTA HARSHAVARDHAN
+
+D N V A KRISHNAMA CHARYULU
+
+VETAPALEM VENKATA GIRI SAI
 
 ### ⭐ Acknowledgement
 
